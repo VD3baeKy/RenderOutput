@@ -94,15 +94,7 @@
 			<version>2.21.1</version> 	
     		</dependency> 
 	</dependencies>
-	<resources> 	
-		<resource> 	
-			<filtering>true</filtering> 	
-			<directory>src/main/resources</directory> 	
-			<includes> 	
-				<include>**/*.properties</include> 	
-			</includes> 	
-		</resource> 	
-	</resources> 
+
 	<build>
 		<plugins>
 			<plugin>
