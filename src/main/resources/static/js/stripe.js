@@ -1,4 +1,4 @@
-const stripeSecretKey = 'pk_test_51QbmklFY800zzpxKpAd6wUyX3T7gnnJtgy2c4s8LCt7W5Hl7aMuddjbtUMb5eyFx700M4jHxJGTsSNrOwsEsqu8u008saOkxMd';
+const stripeSecretKey = 'pk_test_51QbmklFY800zzpxK3wQuufKDhIhsX1rbr15PoYTWc3NW0YJ6ZHkRMo9mkhl4RGKSfCUhhlqX80JW2TNpt6rivDSw00wFqQxuJ5';
 const stripe = Stripe(stripeSecretKey);
 const paymentButton = document.querySelector('#paymentButton');
  
